@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"appcampe","appId":"1:336685085969:android:6fad493743ca47ab3a88b0","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"appcampe","configurations":{"android":"1:336685085969:android:6fad493743ca47ab3a88b0","web":"1:336685085969:web:f1138ba92e0427c63a88b0"}}}}}}
